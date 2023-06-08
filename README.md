@@ -1,13 +1,21 @@
-preview
 <h1 align="center">Hi 👋, I'm Colin Zhang</h1>
-<h3 align="center">A passionate data scientist</h3>
+<h3 align="center">A passionate data scientist, currently study MSDS at Columbia</h3>
 
 - 🔭 I’m currently working as **Data Scientist at NYL**
 
+- 🌱 I’m currently learning **Deep Learning in NLP**
+
+- 💬 Ask me about **DS**
+
 - 📫 How to reach me **zhangzn0@gmail.com**
+
+- 📄 Know about my experiences from Linkedin [https://www.linkedin.com/in/colin-zhang98/](https://www.linkedin.com/in/colin-zhang98/)
+
+- ⚡ Hobbies **Soccer, Board Game**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/colin-zhang98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/colin-zhang98/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
