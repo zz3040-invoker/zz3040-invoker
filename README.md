@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Colin Zhang</h1>
 <h3 align="center">A passionate data scientist, currently study MSDS at Columbia</h3>
 
-- 🔭 I’m currently working as **Data Scientist at NYL**
+- 🔭 I’m currently working as **a Data Scientist Intern at [New York Life Insurance]**(https://www.newyorklife.com/)
 
-- 🌱 I’m currently learning **Deep Learning in NLP**
+- 🌱 I’m currently study at [**Master of Science in Data Science @Columbia**](https://datascience.columbia.edu/education/programs/m-s-in-data-science/)
 
 - 💬 Ask me about **DS**
 
