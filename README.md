@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Colin Zhang</h1>
-<h3 align="center">A passionate data scientist, currently study MSDS at Columbia</h3>
+<h3 align="center">A passionate data scientist, currently s MSDS student at Columbia</h3>
 
 - 🔭 I’m currently working as [**a Data Scientist Intern at New York Life Insurance**](https://www.newyorklife.com/)
 
@@ -12,10 +12,6 @@
 - 📄 Know about my experiences from Linkedin [https://www.linkedin.com/in/colin-zhang98/](https://www.linkedin.com/in/colin-zhang98/)
 
 - ⚡ Hobbies **Soccer, Board Game**
-
-- You can find my project here:
-    1. project 1
-    2. project 2
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
