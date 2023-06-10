@@ -13,6 +13,10 @@
 
 - ⚡ Hobbies **Soccer, Board Game**
 
+- You can find my project here:
+    1. project 1
+    2. project 2
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/colin-zhang98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/colin-zhang98/" height="30" width="40" /></a>
